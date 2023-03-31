@@ -1,3 +1,3 @@
-#Datacamp
+# Datacamp
 
-These are little project to prepare to the datacamp by BeCode
+These are little project to prepare to the datacamp by BeCode etc.
